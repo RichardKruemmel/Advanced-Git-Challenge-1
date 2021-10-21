@@ -2,12 +2,12 @@ Advanced Git Challenge #1
 Merging / Rebasing
 Complete the following steps:
 
-Create a new repository (each individually): either on GitHub or locally
-Create a single commit in that repo (for example by adding a Readme.md)
-Clone the GitHub repo or push your local repository to GitHub
-Create a new branch locally
-Change your Readme.md in your local branch and commit it
-Push your local branch to GitHub
+[x] Create a new repository (each individually): either on GitHub or locally
+[x] Create a single commit in that repo (for example by adding a Readme.md)
+[x] Clone the GitHub repo or push your local repository to GitHub
+[x] Create a new branch locally
+[x] Change your Readme.md in your local branch and commit it
+[x] Push your local branch to GitHub
 Create a pull request for your new branch on GitHub
 Merge your pull request
 Inspect your history: Post a screenshot of your commit history on slack. The history should include your merged pull request (if you take it locally you need to update your main branch first)
